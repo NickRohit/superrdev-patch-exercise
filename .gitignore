@@ -28,3 +28,6 @@ Thumbs.db
 *.trace.db
 *.lock.db
 .internal/
+
+# Archives
+*.zip
